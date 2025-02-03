@@ -9,6 +9,6 @@ provider "aws" {
 }
 
 provider "github" {
-  token  = "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"
+  token  = ""
 
 }
